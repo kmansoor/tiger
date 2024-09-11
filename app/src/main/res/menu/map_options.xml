@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/normal_map"
+    android:title="@string/normal_map"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_map_normal"/>
+  <item android:id="@+id/satellite_map"
+    android:title="@string/satellite_map"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_map_satellite"/>
+  <item android:id="@+id/listview_activity"
+    android:title="@string/listview_activity"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_list_view"/>
+  <item android:id="@+id/my_location"
+    android:title="@string/my_location"
+    app:showAsAction="always"
+    android:icon="@android:drawable/ic_menu_mylocation"/>
+  <item android:id="@+id/admin_activity"
+    android:title="@string/admin_activity"
+    app:showAsAction="never"/>
+  <item android:id="@+id/campus_primary"
+    android:title="@string/campus_primary"
+    app:showAsAction="never"/>
+  <item android:id="@+id/campus_secondary"
+    android:title="@string/campus_secondary"
+    app:showAsAction="never"/>
+</menu>

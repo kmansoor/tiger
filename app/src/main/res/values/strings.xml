@@ -1,0 +1,72 @@
+<resources>
+  <string name="app_name">Tiger</string>
+  <string name="title_activity_maps">OGS</string>
+  <string name="normal_map">Normal</string>
+  <string name="hybrid_map">Hybrid</string>
+  <string name="satellite_map">Satellite</string>
+  <string name="terrain_map">Terrain</string>
+  <string name="dropped_pin">Dropped pin</string>
+  <string name="placeholder">Placeholder text</string>
+  <string name="start_monitoring">Start Monitoring</string>
+  <string name="stop_monitoring">Stop Monitoring</string>
+  <string name="stop_service">Stop service</string>
+  <string name="start_service">Start service</string>
+  <string name="admin_activity">Admin Activity</string>
+  <string name="my_location">My location</string>
+  <string name="title_activity_list_view">OGS</string>
+  <string name="title_admin_view">OGS - Admin</string>
+  <string name="listview_activity">List View</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_parent_fragment">Hello blank fragment - Parent</string>
+  <string name="hello_staff_fragment">Hello blank fragment - Staff</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="parent_pending_activation_text">Your application is awaiting OGS\' approval. Please check back later</string>
+  <string name="i_m_a_parent">I\'m a Parent</string>
+  <string name="i_m_staff">I\'m Staff</string>
+  <string name="parent_name_label">Your name</string>
+  <string name="parent_name_hint">Enter your full name</string>
+  <string name="add_child_button_label">Add child</string>
+  <string name="submit_button_label">Submit</string>
+  <string name="label_section">Section</string>
+  <string name="label_grade">Grade</string>
+  <string name="label_dialog_add_child">Add Child</string>
+  <string name="hint_child_s_full_name">Child\'s full name</string>
+  <string name="add">Add</string>
+  <string name="cancel">Cancel</string>
+  <string name="prompt_spinner_grade">Child\'s grade</string>
+  <string name="grade">Grade</string>
+  <string name="section">Section</string>
+  <string name="edit_child">Edit child</string>
+  <string name="delete_child">Delete child</string>
+  <string-array name="grades_array">
+    <item>JK</item>
+    <item>SK</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+  </string-array>
+  <string-array name="sections_array">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+  </string-array>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="parent_active_fragment_text">Your child pickup experience is under OGS assistance. Enjoy!</string>
+  <string name="ask_admin_to_provide_password">Ask admin to provide password</string>
+  <string name="campus_primary">OSG Primary</string>
+  <string name="campus_secondary">OSG Secondary</string>
+</resources>
